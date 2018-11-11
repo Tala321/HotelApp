@@ -1,0 +1,7 @@
+C:\Users\nurme\Desktop\c#\10-11-2018-hotelManagmentApp\Hotel-management-app\Hotel-management-app\obj\Debug\Hotel-management-app.csprojAssemblyReference.cache
+C:\Users\nurme\Desktop\c#\10-11-2018-hotelManagmentApp\Hotel-management-app\Hotel-management-app\obj\Debug\Hotel-management-app.csproj.CoreCompileInputs.cache
+C:\Users\nurme\Desktop\c#\10-11-2018-hotelManagmentApp\Hotel-management-app\Hotel-management-app\bin\Debug\Hotel-management-app.exe.config
+C:\Users\nurme\Desktop\c#\10-11-2018-hotelManagmentApp\Hotel-management-app\Hotel-management-app\bin\Debug\Hotel-management-app.exe
+C:\Users\nurme\Desktop\c#\10-11-2018-hotelManagmentApp\Hotel-management-app\Hotel-management-app\bin\Debug\Hotel-management-app.pdb
+C:\Users\nurme\Desktop\c#\10-11-2018-hotelManagmentApp\Hotel-management-app\Hotel-management-app\obj\Debug\Hotel-management-app.exe
+C:\Users\nurme\Desktop\c#\10-11-2018-hotelManagmentApp\Hotel-management-app\Hotel-management-app\obj\Debug\Hotel-management-app.pdb
